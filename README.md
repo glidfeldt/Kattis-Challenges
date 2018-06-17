@@ -1,1 +1,2 @@
 # Kattis-Challenges
+Coding puzzles.
